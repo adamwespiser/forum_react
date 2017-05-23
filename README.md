@@ -1,3 +1,13 @@
+##TO RUN
+
+`npm start` -> runs at localhost:3000    
+`json-server -p 8080 --watch db.json` -> get json server going    
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
