@@ -1,4 +1,5 @@
-##TO RUN
+
+## TO RUN
 
 `npm start` -> runs at localhost:3000    
 `json-server -p 8080 --watch db.json` -> get json server going    
